@@ -20,10 +20,13 @@ Disponível em: https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopp
 ## 📁 Estrutura do Projeto
 
 ```
-├── shopping_trends.csv               # Dataset original (não incluído por questões de privacidade)
+├── shopping_trends.csv               # Dataset original 
+├── Base_BRCommerce_Simplificada.csv  # Dataset ficticio BRCommerce
 ├── Script_Anonimizacao2.py           # Script principal com aplicação do algoritmo
 ├── shopping_trends_anonimizados.csv  # Saída esperada (gerada ao executar o script)
 └── Compara_arquivos.py               # Compara os arquivos Orignal e anonimizados
+└── Grafos_conectividades.py          # Geração dos Grafos de Conectividade
+
 ```
 ## Como Usar
 
